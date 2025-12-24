@@ -1,0 +1,8 @@
+{
+  "name": "PLS Transformation - Modern Redesign",
+  "description": "A high-end, modern corporate redesign for PLS Transformation, a leadership and change management consultancy focusing on people-driven organizational success.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
